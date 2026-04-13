@@ -4,8 +4,6 @@ description: Show up fully, or don't show up. No half measures.
 
 # Time and Housekeeping
 
-## Time and Housekeeping
-
 
 
 ### For our group this means

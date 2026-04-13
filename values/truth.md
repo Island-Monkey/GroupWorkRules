@@ -4,9 +4,9 @@
 
 ## For our group this means
 
-We commit to speaking the truth — especially when it's the harder thing to say. When sharing, we lean into whatever feels true, even if it's uncertain, even if it's embarrassing, even if we'd rather not.
+We commit to speaking the truth, especially when it's the harder thing to say. When sharing, we lean into whatever feels true, even if it's uncertain, even if it's embarrassing, even if we'd rather not.
 
-When listening to others share, we commit to not shaming or judging. We honour perspectives that aren't ours. Our role is to offer empathy — not advice, not labels, not unsolicited interpretation.
+When listening to others share, we commit to not shaming or judging. We honour perspectives that aren't ours. Our role is to offer empathy. Not advice, not labels, not unsolicited interpretation.
 
 The truth isn't always clean. That's fine. Bring it anyway.
 

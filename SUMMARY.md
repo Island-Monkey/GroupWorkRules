@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [The Shared Path](README.md)
 
@@ -6,10 +6,10 @@
 
 * [Safety](values/safety.md)
 * [Confidentiality](values/confidentiality.md)
-* [Truth](values/truth.md)
-* [Accountability](values/accountability.md)
-* [Challenge](values/challenge.md)
 * [Timekeeping](values/timekeeping.md)
+* [Truth](values/truth.md)
+* [Challenge](values/challenge.md)
+* [Accountability](values/accountability.md)
 
 ## Sources Used
 

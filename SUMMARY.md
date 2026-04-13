@@ -6,7 +6,7 @@
 
 * [Safety](values/safety.md)
 * [Confidentiality](values/confidentiality.md)
-* [Timekeeping](values/timekeeping.md)
+* [Time and Housekeeping](values/time-and-housekeeping.md)
 * [Truth](values/truth.md)
 * [Challenge](values/challenge.md)
 * [Accountability](values/accountability.md)

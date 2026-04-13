@@ -4,10 +4,12 @@
 
 ## Values
 
+* [Safety](values/safety.md)
 * [Confidentiality](values/confidentiality.md)
 * [Truth](values/truth.md)
+* [Accountability](values/accountability.md)
+* [Challenge](values/challenge.md)
 * [Timekeeping](values/timekeeping.md)
-* [Safety](values/safety.md)
 
 ## Sources Used
 

@@ -4,10 +4,10 @@
 
 ## For our group this means
 
-We commit to tight timekeeping. We arrive on time. In a larger group, we stay within the allotted time for sharing — not because the clock matters more than the person, but because the container matters to everyone in it.
+We commit to tight timekeeping. We arrive on time. In a larger group, we stay within the allotted time for sharing. Not because the clock matters more than the person, but because the container matters to everyone in it.
 
-We commit to being in or out for a given meeting. Half-presence — arriving late and leaving early, phone in hand, one foot somewhere else — is its own kind of absence. The group deserves more than that. So do you.
+We commit to being in or out for a given meeting. Half-presence, arriving late and leaving early, phone in hand, one foot somewhere else, is its own kind of absence. The group deserves more than that. So do you.
 
 ## Why this matters
 
-A group that starts late signals that nobody's time matters. A group that holds its shape signals that this is real — that it's worth protecting. Structure is not the opposite of depth. It's what makes depth possible.
+A group that starts late signals that nobody's time matters. A group that holds its shape signals that this is real, that it's worth protecting. Structure is not the opposite of depth. It's what makes depth possible.

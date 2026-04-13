@@ -4,9 +4,9 @@
 
 ---
 
-Men carry a lot in silence. Not because they're strong — because they've learned that putting it down makes them weak. Or so the story goes.
+Men carry a lot in silence. Not because they're strong. Because they've learned that putting it down makes them weak. Or so the story goes.
 
-Most of us got that story early. Keep it together. Don't make a fuss. Sort it out yourself. And for a long time, that works — until it doesn't.
+Most of us got that story early. Keep it together. Don't make a fuss. Sort it out yourself. And for a long time, that works. Until it doesn't.
 
 A men's group is not therapy. It's not a support group. It's not a place to be fixed.
 
@@ -14,7 +14,7 @@ It's a room where men show up, tell the truth, and listen while others do the sa
 
 ## What this is
 
-This document is an attempt to gather the best thinking from men's groups, peer support traditions, therapeutic communities, and the hard-won wisdom of people who've been doing this work for decades — and distil it into something usable.
+This document is an attempt to gather the best thinking from men's groups, peer support traditions, therapeutic communities, and the hard-won wisdom of people who've been doing this work for decades. Distilled into something usable.
 
 Not a rulebook. Not a manifesto. A shared starting point.
 
@@ -24,7 +24,7 @@ That's how it's supposed to work.
 
 ## Why it matters
 
-There is a wound underneath most of the wounds men carry: _Do I belong? Am I acceptable? Can I be known — really known — and still be welcome?_
+There is a wound underneath most of the wounds men carry: _Do I belong? Am I acceptable? Can I be known, really known, and still be welcome?_
 
 Most men never get to find out. Because the asking itself feels like the answer: _if you have to ask, you probably don't._
 
@@ -36,11 +36,11 @@ That's it. That's the medicine.
 
 It is not the final word. It is not _our_ word, in the sense of ownership. It belongs to whoever picks it up and uses it.
 
-The sources are real. The principles are drawn from decades of group work — AA, men's circles, veterans' peer support, therapeutic communities. We've tried to find what they all agree on, strip away the jargon, and put it in plain language.
+The sources are real. The principles are drawn from decades of group work. AA, men's circles, veterans' peer support, therapeutic communities. We've tried to find what they all agree on, strip away the jargon, and put it in plain language.
 
 What you do with it is up to you.
 
 ---
 
 _"The path is made by walking."_
-— Antonio Machado
+Antonio Machado

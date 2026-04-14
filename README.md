@@ -17,9 +17,10 @@ Six things make it work:
 - **Challenge.** The group holds you and pushes back. Nodding along isn't support.
 - **Timekeeping.** Be in or be out. The container matters.
 
-Take it. Change what doesn't fit. Call it yours.
+Care to dig deeper, read on:
 
 ---
+## In long:
 
 Men carry a lot in silence. Not because they're strong. Because they've learned that putting it down makes them weak. Or so the story goes.
 

@@ -1,27 +1,61 @@
 # The Shared Path
+
 *Walked alone. Never alone.*
 
 ---
 
-Men carry a lot in silence. Not because they're strong, but because somewhere along the way they learned that putting it down was the same as being weak. Most of us got that lesson early: keep it together, don't make a fuss, sort it out yourself. For a long time it works. Until it doesn't.
+## In short
 
-A men's group isn't therapy, and it isn't somewhere you go to be fixed. It's a room where men show up, tell the truth, and listen while others do the same. Somehow, that turns out to be enough.
+A men's group is a room where you show up, tell the truth, and listen. That's it.
+
+Six things make it work:
+
+- **Safety.** No one leaves smaller than they arrived. Discomfort is welcome. Humiliation is not.
+- **Confidentiality.** What's said here stays here. You own your story. Nobody else's.
+- **Truth.** Lean into the uncomfortable. Bring what's real, not what's presentable.
+- **Accountability.** Own your part. What you bring in, you're responsible for.
+- **Challenge.** The group holds you and pushes back. Nodding along isn't support.
+- **Timekeeping.** Be in or be out. The container matters.
+
+Take it. Change what doesn't fit. Call it yours.
+
+---
+
+Men carry a lot in silence. Not because they're strong. Because they've learned that putting it down makes them weak. Or so the story goes.
+
+Most of us got that story early. Keep it together. Don't make a fuss. Sort it out yourself. And for a long time, that works. Until it doesn't.
+
+A men's group is not therapy. It's not a support group. It's not a place to be fixed.
+
+It's a room where men show up, tell the truth, and listen while others do the same. That's it. That's the whole thing. And somehow, that's everything.
 
 ## What this is
 
-This document draws on decades of thinking from men's groups, peer support traditions, and therapeutic communities, distilled into something usable rather than prescriptive. Not a rulebook. A starting point.
+This document is an attempt to gather the best thinking from men's groups, peer support traditions, therapeutic communities, and the hard-won wisdom of people who've been doing this work for decades. Distilled into something usable.
 
-Every group should be different, so take this, argue with it, cross out what doesn't fit your men and add what we missed. That's how it's supposed to work.
+Not a rulebook. Not a manifesto. A shared starting point.
+
+Every group is different. Every group _should_ be different. So take this, read it, argue with it, change what doesn't fit. Cross out the bits that feel wrong for your men, add the things we missed, and call it yours.
+
+That's how it's supposed to work.
 
 ## Why it matters
 
-Underneath most of what men carry, there's a quieter wound: *do I belong? Can I be really known and still be welcome?* Most men never find out, because the asking feels like it already answers the question.
+There is a wound underneath most of the wounds men carry: _Do I belong? Am I acceptable? Can I be known, really known, and still be welcome?_
 
-A good group breaks that logic slowly, through presence and repetition. Someone tells the truth and the room holds. Someone shows up broken and nobody leaves. Someone says *I don't know what I'm doing* and three men nod. That's the medicine.
+Most men never get to find out. Because the asking itself feels like the answer: _if you have to ask, you probably don't._
 
-## A note on this document
+A good men's group breaks that logic. Quietly, over time, through presence and repetition. Someone tells the truth and the room doesn't fall apart. Someone shows up broken and nobody runs. Someone says _I don't know what I'm doing_ and three men nod.
 
-The sources are real: AA, men's circles, veterans' peer support, therapeutic communities. We've tried to find what they agree on and put it in plain language, without the jargon. What you do with it is yours.
+That's it. That's the medicine.
+
+## What this document is not
+
+It is not the final word. It is not _our_ word, in the sense of ownership. It belongs to whoever picks it up and uses it.
+
+The sources are real. The principles are drawn from decades of group work. AA, men's circles, veterans' peer support, therapeutic communities. We've tried to find what they all agree on, strip away the jargon, and put it in plain language.
+
+What you do with it is up to you.
 
 ---
 
